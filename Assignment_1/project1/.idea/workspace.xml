@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58a7106e-2e4f-48ea-ba25-8215a372bd84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgCgpypmz2j6UcdxUV7j7kgLNt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../project/working - Copy/rahul.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nmala\Documents\Sem2\AUE_8810_MotionPlanning\Assignments\Assignment_1\Final\FOr_Extracredits" />
+      <recent name="C:\Users\nmala\Documents\Sem2\AUE_8810_MotionPlanning\Assignments\Assignment_1\Final\For_3_4" />
+      <recent name="C:\Users\nmala\Desktop" />
+      <recent name="C:\Users\nmala\Documents\Sem2\AUE_8810_MotionPlanning\Assignments\Assignment_1\Final" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.rahul">
+    <configuration name="rahul" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\nmala\Miniconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../project/working - Copy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../project/working - Copy/rahul.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\nmala\Miniconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.rahul" />
+      <item itemvalue="Python.test" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58a7106e-2e4f-48ea-ba25-8215a372bd84" name="Default Changelist" comment="" />
+      <created>1579561964714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579561964714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587665160846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587665160846" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1587665159218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587665159218" />
+    <state width="1047" height="124" key="GridCell.Tab.0.bottom" timestamp="1587711212069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1047" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587711212069" />
+    <state width="1047" height="124" key="GridCell.Tab.0.center" timestamp="1587711212069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1047" height="124" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587711212069" />
+    <state width="1047" height="124" key="GridCell.Tab.0.left" timestamp="1587711212068">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1047" height="124" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587711212068" />
+    <state width="1047" height="124" key="GridCell.Tab.0.right" timestamp="1587711212069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1047" height="124" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587711212069" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1583112627098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583112627098" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587958268498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587958268498" />
+    <state width="602" height="354" key="javadoc.popup" timestamp="1579753346768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="602" height="354" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1579753346768" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580097638066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580097638066" />
+  </component>
+</project>
